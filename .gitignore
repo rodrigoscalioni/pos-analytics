@@ -1,0 +1,23 @@
+# ambiente virtual
+.venv/
+
+# cache python
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# dados grandes (opcional)
+data/raw/
+
+# arquivos temporários
+*.log
+*.tmp
+
+# vscode local settings
+.vscode/
